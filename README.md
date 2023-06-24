@@ -1,26 +1,13 @@
 <html>
   <head>
-    <title>ini kelompok kami (slebew)</title>
+    <title></title>
   </head>
   <body>
-        <h2>WEB PROGRAMING kelompok slebew</h2>
-
-        <ul>
-        <li>aku dan dia</li>
-        <ul>
-        
-
-   
-
-
-               
-  
-
-        </body>
-        </html>
-
-    </div>
-    
-    </body>
-    </html>
-
+    <h3>web programing kelompok kami slebew</h3>
+      <ul>
+        <li>aku</li>
+        <li>kamu</li>
+        <li>dia</li>
+      <p>luar biasa ya temna-teman. mantap broo</p>
+  </body>
+</html>
