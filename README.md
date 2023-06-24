@@ -1,13 +1,19 @@
 <html>
   <head>
-    <title></title>
+ <title>Belajar Membuat Website</title>
   </head>
   <body>
-    <h3>web programing kelompok kami slebew</h3>
-      <ul>
-        <li>aku</li>
-        <li>kamu</li>
-        <li>dia</li>
-      <p>luar biasa ya temna-teman. mantap broo</p>
-  </body>
+    
+<h1> Judul dengan Heading 1</h1>
+<h2> Judul dengan Heading 2</h2>
+<hr>
+<p>
+  Mudah membuat website di Era Revolusi Industri 4.0
+</p>
+
+<p>Karena saat ini  sudah tersedia banyak tools untuk membuat websitedengan berbagai bahasa pemrograman </p>
+
+ <blockquote>Revolusi Industri 4.0 diawali dengan hadirnya sistem digital</blockquote>
+</body>
 </html>
+  
